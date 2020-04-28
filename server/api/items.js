@@ -1,9 +1,15 @@
 const router = require('express').Router();
+const { db } = require('../db/index');
 
 module.exports = router;
 
-router.get('/', (req, res, next) => {
-  res.send('Hello world');
+router.get('/:category', async (req, res, next) => {
+  try {
+    const items = await db.model(req.params.category).find();
+    res.json(items);
+  } catch (error) {
+    next(error);
+  }
 });
 
 router.post('/', (req, res, next) => {

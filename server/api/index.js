@@ -1,6 +1,6 @@
 const router = require('express').Router();
 
-router.use('/data', require('./data'));
+router.use('/items', require('./items'));
 
 router.use((req, res, next) => {
   const err = new Error('Oops! Not found.');
