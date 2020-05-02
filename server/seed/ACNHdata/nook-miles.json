@@ -1,0 +1,397 @@
+[
+  {
+    "name": "arched tile path permit",
+    "nookMiles": 2000,
+    "filename": "FtrGroundMakerStonePattern",
+    "internalId": 8776
+  },
+  {
+    "name": "bamboo lattice fence",
+    "nookMiles": 1000,
+    "category": "Recipe",
+    "filename": "ItemFenceBamboo",
+    "internalId": 3403
+  },
+  {
+    "name": "barbed-wire fence",
+    "nookMiles": 1000,
+    "category": "Recipe",
+    "filename": "ItemFenceBarbedWire",
+    "internalId": 5213
+  },
+  {
+    "name": "Bell voucher",
+    "nookMiles": 500,
+    "filename": "BellExchangeTicket",
+    "internalId": 9964
+  },
+  {
+    "name": "brick fence",
+    "nookMiles": 1000,
+    "category": "Recipe",
+    "filename": "ItemFenceWallRenga",
+    "internalId": 3080
+  },
+  {
+    "name": "brick path permit",
+    "nookMiles": 2000,
+    "filename": "FtrGroundMakerBrick",
+    "internalId": 8774
+  },
+  {
+    "name": "cliff construction permit",
+    "nookMiles": 6000,
+    "filename": "FtrCliffMaker",
+    "internalId": 2543
+  },
+  {
+    "name": "corral fence",
+    "nookMiles": 1000,
+    "category": "Recipe",
+    "filename": "ItemFenceHorizontalWood",
+    "internalId": 4349
+  },
+  {
+    "name": "country fence",
+    "nookMiles": 1000,
+    "category": "Recipe",
+    "filename": "ItemFenceLog",
+    "internalId": 4350
+  },
+  {
+    "name": "custom design path permit",
+    "nookMiles": 2800,
+    "filename": "FtrGroundMakerMydesign",
+    "internalId": 9771
+  },
+  {
+    "name": "Custom Design Pro Editor",
+    "nookMiles": 800,
+    "filename": "HowtoBookMydesingPro",
+    "internalId": 12185
+  },
+  {
+    "name": "customizable phone case kit",
+    "nookMiles": 1800,
+    "filename": "SmartphoneCase",
+    "internalId": 8760
+  },
+  {
+    "name": "dark dirt path permit",
+    "nookMiles": 2000,
+    "filename": "FtrGroundMakerDarkSoil",
+    "internalId": 8775
+  },
+  {
+    "name": "imperial fence",
+    "nookMiles": 1000,
+    "category": "Recipe",
+    "filename": "ItemFenceChinese",
+    "internalId": 4354
+  },
+  {
+    "name": "iron fence",
+    "nookMiles": 1000,
+    "category": "Recipe",
+    "filename": "ItemFenceSteel",
+    "internalId": 4357
+  },
+  {
+    "name": "iron-and-stone fence",
+    "nookMiles": 1000,
+    "category": "Recipe",
+    "filename": "ItemFenceIronAndStone",
+    "internalId": 5206
+  },
+  {
+    "name": "lattice fence",
+    "nookMiles": 1000,
+    "category": "Recipe",
+    "filename": "ItemFenceLatiiceNatural",
+    "internalId": 11712
+  },
+  {
+    "name": "Nook Miles Ticket",
+    "nookMiles": 2000,
+    "filename": "MilePlaneTicket",
+    "internalId": 5851
+  },
+  {
+    "name": "Pocket Organization Guide",
+    "nookMiles": 5000,
+    "filename": "HowtoBookPocketExpansion",
+    "internalId": 9052
+  },
+  {
+    "name": "Pretty Good Tools Recipes",
+    "nookMiles": 3000,
+    "filename": "DIYbookNormalTools",
+    "internalId": 9221
+  },
+  {
+    "name": "rope fence",
+    "nookMiles": 1000,
+    "category": "Recipe",
+    "filename": "ItemFencePegRope",
+    "internalId": 4352
+  },
+  {
+    "name": "sand path permit",
+    "nookMiles": 2000,
+    "filename": "FtrGroundMakerSand",
+    "internalId": 8777
+  },
+  {
+    "name": "simple wooden fence",
+    "nookMiles": 1000,
+    "category": "Recipe",
+    "filename": "ItemFenceNatural",
+    "internalId": 11711
+  },
+  {
+    "name": "spiky fence",
+    "nookMiles": 1000,
+    "category": "Recipe",
+    "filename": "ItemFenceSharply",
+    "internalId": 4358
+  },
+  {
+    "name": "stone fence",
+    "nookMiles": 1000,
+    "category": "Recipe",
+    "filename": "ItemFenceStone",
+    "internalId": 5212
+  },
+  {
+    "name": "stone path permit",
+    "nookMiles": 2000,
+    "filename": "FtrGroundMakerStone",
+    "internalId": 8773
+  },
+  {
+    "name": "straw fence",
+    "nookMiles": 1000,
+    "category": "Recipe",
+    "filename": "ItemFenceDriedStraw",
+    "internalId": 4356
+  },
+  {
+    "name": "terra-cotta tile permit",
+    "nookMiles": 2000,
+    "filename": "FtrGroundMakerTile",
+    "internalId": 8778
+  },
+  {
+    "name": "Tool Ring: It's Essential!",
+    "nookMiles": 800,
+    "filename": "HowtoBookRingMenuUI",
+    "internalId": 9616
+  },
+  {
+    "name": "Top 8 Cool Hairstyles",
+    "nookMiles": 2400,
+    "filename": "HowtoBookHairCool",
+    "internalId": 9050
+  },
+  {
+    "name": "Top 8 Pop Hairstyles",
+    "nookMiles": 2400,
+    "filename": "HowtoBookHairPop",
+    "internalId": 9049
+  },
+  {
+    "name": "Top 8 Stylish Hair Colors",
+    "nookMiles": 3000,
+    "filename": "HowtoBookHairColor",
+    "internalId": 9051
+  },
+  {
+    "name": "Ultimate Pocket Stuffing",
+    "nookMiles": 8000,
+    "filename": "HowtoBookPocketExpansion2",
+    "internalId": 11140
+  },
+  {
+    "name": "vertical-board fence",
+    "nookMiles": 1000,
+    "category": "Recipe",
+    "filename": "ItemFenceVerticalWood",
+    "internalId": 3402
+  },
+  {
+    "name": "waterscaping permit",
+    "nookMiles": 6000,
+    "filename": "FtrRiverMaker",
+    "internalId": 3247
+  },
+  {
+    "name": "wooden path permit",
+    "nookMiles": 2000,
+    "filename": "FtrGroundMakerWood",
+    "internalId": 8779
+  },
+  {
+    "name": "zen fence",
+    "nookMiles": 1000,
+    "category": "Recipe",
+    "filename": "ItemFenceJapanese",
+    "internalId": 5207
+  },
+  {
+    "name": "(for recipes)"
+  },
+  {
+    "name": "construction sign",
+    "nookMiles": 1000,
+    "category": "Housewares",
+    "filename": "FtrSignConstruction",
+    "internalId": 9568
+  },
+  {
+    "name": "cotton-candy stall",
+    "nookMiles": 3000,
+    "category": "Housewares",
+    "filename": "FtrCottoncandymachine",
+    "internalId": 4412
+  },
+  {
+    "name": "drink machine",
+    "nookMiles": 2000,
+    "category": "Housewares",
+    "filename": "FtrDrinkmachine",
+    "internalId": 1802
+  },
+  {
+    "name": "lifeguard chair",
+    "nookMiles": 1000,
+    "category": "Housewares",
+    "filename": "FtrMonitoringchair",
+    "internalId": 3345
+  },
+  {
+    "name": "lighthouse",
+    "nookMiles": 5000,
+    "category": "Housewares",
+    "filename": "FtrLighthouse",
+    "internalId": 2335
+  },
+  {
+    "name": "monster statue",
+    "nookMiles": 5000,
+    "category": "Housewares",
+    "filename": "FtrMonster",
+    "internalId": 4722
+  },
+  {
+    "name": "parabolic antenna",
+    "nookMiles": 4000,
+    "category": "Housewares",
+    "filename": "FtrParabolicantenna",
+    "internalId": 2352
+  },
+  {
+    "name": "park clock",
+    "nookMiles": 2400,
+    "category": "Housewares",
+    "filename": "FtrParkclock",
+    "internalId": 3595
+  },
+  {
+    "name": "phone box",
+    "nookMiles": 2400,
+    "category": "Housewares",
+    "filename": "FtrTelephonebox",
+    "internalId": 1185
+  },
+  {
+    "name": "playground gym",
+    "nookMiles": 3000,
+    "category": "Housewares",
+    "filename": "FtrJunglegym",
+    "internalId": 3430
+  },
+  {
+    "name": "pool",
+    "nookMiles": 5000,
+    "category": "Housewares",
+    "filename": "FtrPool",
+    "internalId": 3596
+  },
+  {
+    "name": "portable toilet",
+    "nookMiles": 1000,
+    "category": "Housewares",
+    "filename": "FtrWCPortable",
+    "internalId": 1234
+  },
+  {
+    "name": "public bench",
+    "nookMiles": 2000,
+    "category": "Housewares",
+    "filename": "FtrPublicbench",
+    "internalId": 3346
+  },
+  {
+    "name": "snack machine",
+    "nookMiles": 2000,
+    "category": "Housewares",
+    "filename": "FtrFoodmachine",
+    "internalId": 971
+  },
+  {
+    "name": "soccer goal",
+    "nookMiles": 4000,
+    "category": "Housewares",
+    "filename": "FtrSoccergoal",
+    "internalId": 1149
+  },
+  {
+    "name": "solar panel",
+    "nookMiles": 4000,
+    "category": "Housewares",
+    "filename": "FtrSolarpanel",
+    "internalId": 2333
+  },
+  {
+    "name": "springy ride-on",
+    "nookMiles": 2000,
+    "category": "Housewares",
+    "filename": "FtrSpringrider",
+    "internalId": 4379
+  },
+  {
+    "name": "streetlamp",
+    "nookMiles": 1000,
+    "category": "Housewares",
+    "filename": "FtrStreetlamp",
+    "internalId": 3816
+  },
+  {
+    "name": "teacup ride",
+    "nookMiles": 5000,
+    "category": "Housewares",
+    "filename": "FtrTurncup",
+    "internalId": 1507
+  },
+  {
+    "name": "tourist telescope",
+    "nookMiles": 2000,
+    "category": "Housewares",
+    "filename": "FtrTelescopeSightseeing",
+    "internalId": 3078
+  },
+  {
+    "name": "utility pole",
+    "nookMiles": 1000,
+    "category": "Housewares",
+    "filename": "FtrTelephonepole",
+    "internalId": 9619
+  },
+  {
+    "name": "wind turbine",
+    "nookMiles": 4000,
+    "category": "Housewares",
+    "filename": "FtrWindturbine",
+    "internalId": 7379
+  }
+]

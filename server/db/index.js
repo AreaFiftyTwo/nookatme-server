@@ -1,34 +1,35 @@
 const mongoose = require('mongoose');
-require('./models/fencing');
-require('./models/art');
-require('./models/accessory');
-require('./models/bag');
-require('./models/bugNorth');
-require('./models/bugSouth');
-require('./models/construction');
-require('./models/dress');
-require('./models/fishNorth');
-require('./models/fishSouth');
-require('./models/floor');
-require('./models/fossil');
-require('./models/headwear');
-require('./models/houseware');
-require('./models/misc');
-require('./models/music');
-require('./models/nookMile');
-require('./models/other');
-require('./models/photo');
-require('./models/poster');
-require('./models/recipe');
-require('./models/rug');
-require('./models/shoe');
-require('./models/sock');
-require('./models/tool');
-require('./models/top');
-require('./models/umbrella');
-require('./models/villager');
-require('./models/wallmounted');
-require('./models/wallpaper');
+const Fencing = require('./models/fencing');
+const Art = require('./models/art');
+const Accessory = require('./models/accessory');
+const Bag = require('./models/bag');
+const Bottom = require('./models/bottom');
+const BugNorth = require('./models/bugNorth');
+const BugSouth = require('./models/bugSouth');
+const Construction = require('./models/construction');
+const Dress = require('./models/dress');
+const FishNorth = require('./models/fishNorth');
+const FishSouth = require('./models/fishSouth');
+const Floor = require('./models/floor');
+const Fossil = require('./models/fossil');
+const Headwear = require('./models/headwear');
+const Houseware = require('./models/houseware');
+const Misc = require('./models/misc');
+const Music = require('./models/music');
+const NookMile = require('./models/nookMile');
+const Other = require('./models/other');
+const Photo = require('./models/photo');
+const Poster = require('./models/poster');
+const Recipe = require('./models/recipe');
+const Rug = require('./models/rug');
+const Shoe = require('./models/shoe');
+const Sock = require('./models/sock');
+const Tool = require('./models/tool');
+const Top = require('./models/top');
+const Umbrella = require('./models/umbrella');
+const Villager = require('./models/villager');
+const Wallmounted = require('./models/wallmounted');
+const Wallpaper = require('./models/wallpaper');
 
 mongoose.connect('mongodb://localhost/nookatme', {
   useNewUrlParser: true,
@@ -44,4 +45,4 @@ db
     console.log('error:', error)
   })
 
-module.exports = { db: db }
+module.exports = { db, Fencing, Accessory, Art, Bag, Bottom, BugNorth, BugSouth, Construction, Dress, FishNorth, FishSouth, Floor, Fossil, Headwear, Houseware, Misc, Music, NookMile, Other, Photo, Poster, Recipe, Rug, Shoe, Sock, Tool, Top, Umbrella, Villager, Wallmounted, Wallpaper }

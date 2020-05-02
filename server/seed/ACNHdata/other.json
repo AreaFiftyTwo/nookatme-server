@@ -1,0 +1,2939 @@
+[
+  {
+    "name": "acorn",
+    "buy": "NFS",
+    "sell": 200,
+    "source": "Shaking a hardwood tree (Fall)",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "DIYAcorn",
+    "internalId": 5727
+  },
+  {
+    "name": "apple",
+    "buy": 400,
+    "sell": 500,
+    "source": "Apple tree",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "Apple",
+    "internalId": 2213
+  },
+  {
+    "name": "apple tree",
+    "buy": "NFS",
+    "sell": 300,
+    "source": "Planting an apple",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltApple4",
+    "internalId": 3360
+  },
+  {
+    "name": "Aquarius fragment",
+    "buy": "NFS",
+    "sell": 500,
+    "source": "Wishing on shooting stars (January 20 - February 18)",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "StarpieceAquarius",
+    "internalId": 5986
+  },
+  {
+    "name": "Aries fragment",
+    "buy": "NFS",
+    "sell": 500,
+    "source": "Wishing on shooting stars (March 21 - April 19)",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "StarpieceAries",
+    "internalId": 5988
+  },
+  {
+    "name": "bamboo piece",
+    "buy": "NFS",
+    "sell": 80,
+    "source": "Chopping a bamboo tree",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "DIYBamboo",
+    "internalId": 2501
+  },
+  {
+    "name": "bamboo shoot",
+    "buy": "NFS",
+    "sell": 250,
+    "source": "Dig spot near a bamboo tree",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "BambooShoot",
+    "internalId": 2295
+  },
+  {
+    "name": "bamboo tree",
+    "buy": "NFS",
+    "sell": 1500,
+    "source": "Planting a bamboo shoot",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltBamboo4",
+    "internalId": 2815
+  },
+  {
+    "name": "Bell bag",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "Glowing dig spot",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "PhotoStudioBellBag",
+    "internalId": 7731
+  },
+  {
+    "name": "birthday cupcake",
+    "buy": "NFS",
+    "sell": 200,
+    "source": "Birthday",
+    "tag": "Seasonal Decor",
+    "version": "1.0.0",
+    "filename": "BirthdayCupcake",
+    "internalId": 2779
+  },
+  {
+    "name": "black cosmos",
+    "buy": "NFS",
+    "sell": 240,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwCosmosBlack",
+    "internalId": 2875
+  },
+  {
+    "name": "black lilies",
+    "buy": "NFS",
+    "sell": 80,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwYuriBlack",
+    "internalId": 2999
+  },
+  {
+    "name": "black roses",
+    "buy": "NFS",
+    "sell": 240,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwRoseBlack",
+    "internalId": 2955
+  },
+  {
+    "name": "black tulips",
+    "buy": "NFS",
+    "sell": 80,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwTulipBlack",
+    "internalId": 2903
+  },
+  {
+    "name": "black wrapping paper",
+    "buy": 160,
+    "sell": 40,
+    "source": "Nook's Cranny",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "WPaperBlack",
+    "internalId": 7698
+  },
+  {
+    "name": "black-cosmos plant",
+    "buy": "NFS",
+    "sell": 240,
+    "source": "Red/red cosmos",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltCosmosBlack3",
+    "internalId": 3834
+  },
+  {
+    "name": "black-lily plant",
+    "buy": "NFS",
+    "sell": 80,
+    "source": "Red/red lilies",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltYuriBlack3",
+    "internalId": 3896
+  },
+  {
+    "name": "black-rose plant",
+    "buy": "NFS",
+    "sell": 240,
+    "source": "Red/red roses",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltRoseBlack3",
+    "internalId": 3874
+  },
+  {
+    "name": "black-tulip plant",
+    "buy": "NFS",
+    "sell": 80,
+    "source": "Red/red tulips",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltTulipBlack3",
+    "internalId": 3848
+  },
+  {
+    "name": "Blathers's tent marker",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "Tom Nook",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "MuseumTent",
+    "internalId": 2755
+  },
+  {
+    "name": "blue hyacinths",
+    "buy": "NFS",
+    "sell": 80,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwHyacinthBlue",
+    "internalId": 3748
+  },
+  {
+    "name": "blue ornament",
+    "buy": "NFS",
+    "sell": 50,
+    "source": "Shaking a cedar tree (Festive Season)",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "DIYOrnamentBlue",
+    "internalId": 5731
+  },
+  {
+    "name": "blue pansies",
+    "buy": "NFS",
+    "sell": 80,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwPansyBlue",
+    "internalId": 2927
+  },
+  {
+    "name": "blue roses",
+    "buy": "NFS",
+    "sell": 1000,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwRoseBlue",
+    "internalId": 2959
+  },
+  {
+    "name": "blue windflowers",
+    "buy": "NFS",
+    "sell": 80,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwAnemonesBlue",
+    "internalId": 3717
+  },
+  {
+    "name": "blue wrapping paper",
+    "buy": 160,
+    "sell": 40,
+    "source": "Nook's Cranny",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "WPaperBlue",
+    "internalId": 7692
+  },
+  {
+    "name": "blue-hyacinth plant",
+    "buy": "NFS",
+    "sell": 80,
+    "source": "White/white hyacinths",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltHyacinthBlue3",
+    "internalId": 3920
+  },
+  {
+    "name": "blue-pansy plant",
+    "buy": "NFS",
+    "sell": 80,
+    "source": "White/white pansies",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltPansyBlue3",
+    "internalId": 3860
+  },
+  {
+    "name": "blue-rose plant",
+    "buy": "NFS",
+    "sell": 1000,
+    "source": "Orange/orange roses",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltRoseBlue3",
+    "internalId": 3876
+  },
+  {
+    "name": "blue-windflower plant",
+    "buy": "NFS",
+    "sell": 80,
+    "source": "White/white windflowers\nOrange/white windflowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltAnemonesBlue3",
+    "internalId": 3902
+  },
+  {
+    "name": "boot",
+    "buy": 40,
+    "sell": 10,
+    "source": "Fishing",
+    "sourceNotes": "Medium shadow",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "TrashBoot",
+    "internalId": 3469
+  },
+  {
+    "name": "bridge construction kit",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "Tom Nook",
+    "tag": "Outdoors Decor",
+    "version": "1.0.0",
+    "filename": "BridgeLogReserveKit",
+    "internalId": 7211
+  },
+  {
+    "name": "bridge marker kit",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "Tom Nook",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "BridgeReserveKit",
+    "internalId": 4310
+  },
+  {
+    "name": "brown wrapping paper",
+    "buy": 160,
+    "sell": 40,
+    "source": "Nook's Cranny",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "WPaperBrown",
+    "internalId": 7696
+  },
+  {
+    "name": "campsite construction kit",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "Tom Nook",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "CampsiteReserveKit",
+    "internalId": 5166
+  },
+  {
+    "name": "campsite moving kit",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "Tom Nook",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "MovingKitCampsite",
+    "internalId": 6841
+  },
+  {
+    "name": "Cancer fragment",
+    "buy": "NFS",
+    "sell": 500,
+    "source": "Wishing on shooting stars (June 21 - July 22)",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "StarpieceCancer",
+    "internalId": 5991
+  },
+  {
+    "name": "Capricorn fragment",
+    "buy": "NFS",
+    "sell": 500,
+    "source": "Wishing on shooting stars (Dec 22 - Jan 19)",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "StarpieceCapricornus",
+    "internalId": 5985
+  },
+  {
+    "name": "cedar sapling",
+    "buy": 640,
+    "sell": 160,
+    "source": "Nook's Cranny",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "SeedCedar",
+    "internalId": 2800
+  },
+  {
+    "name": "cedar tree",
+    "buy": "NFS",
+    "sell": 240,
+    "source": "Planting a cedar start",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltCedar4",
+    "internalId": 2805
+  },
+  {
+    "name": "chartreuse wrapping paper",
+    "buy": 160,
+    "sell": 40,
+    "source": "Nook's Cranny",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "WPaperLightGreen",
+    "internalId": 7686
+  },
+  {
+    "name": "cherry",
+    "buy": 400,
+    "sell": 500,
+    "source": "Cherry tree",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "Cherry",
+    "internalId": 2287
+  },
+  {
+    "name": "cherry tree",
+    "buy": "NFS",
+    "sell": 300,
+    "source": "Planting a cherry",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltCherry4",
+    "internalId": 3381
+  },
+  {
+    "name": "cherry-blossom petal",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "Catching with a net (Cherry-Blossom Season)",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "Sakurapetal",
+    "internalId": 5859
+  },
+  {
+    "name": "clay",
+    "buy": "NFS",
+    "sell": 100,
+    "source": "Hitting a rock",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "DIYClay",
+    "internalId": 3090
+  },
+  {
+    "name": "clump of weeds",
+    "buy": "NFS",
+    "sell": 10,
+    "source": "On ground",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltWeed",
+    "internalId": 2624
+  },
+  {
+    "name": "coconut",
+    "buy": "NFS",
+    "sell": 250,
+    "source": "Coconut tree",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "Coconut",
+    "internalId": 2288
+  },
+  {
+    "name": "coconut tree",
+    "buy": "NFS",
+    "sell": 500,
+    "source": "Planting a coconut",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltPalm4",
+    "internalId": 2810
+  },
+  {
+    "name": "coin",
+    "buy": "NFS",
+    "sell": 0,
+    "source": "Shaking a tree",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "PhotoStudioBell",
+    "internalId": 7730
+  },
+  {
+    "name": "communicator part",
+    "buy": "NFS",
+    "sell": 20,
+    "source": "Clam dig spot while on a quest for Gulliver",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "JohnnyQuest1",
+    "internalId": 2381
+  },
+  {
+    "name": "conch",
+    "buy": "NFS",
+    "sell": 700,
+    "source": "Beach",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "ShellDriftHora",
+    "internalId": 1376
+  },
+  {
+    "name": "coral",
+    "buy": "NFS",
+    "sell": 500,
+    "source": "Beach",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "ShellDriftSango",
+    "internalId": 1380
+  },
+  {
+    "name": "cowrie",
+    "buy": "NFS",
+    "sell": 60,
+    "source": "Beach",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "ShellDriftTakara",
+    "internalId": 1382
+  },
+  {
+    "name": "customization kit",
+    "buy": 600,
+    "sell": 150,
+    "source": "Nook's Cranny",
+    "tag": "Supplies",
+    "version": "1.0.0",
+    "filename": "RemakeKit",
+    "internalId": 2513
+  },
+  {
+    "name": "delivery",
+    "buy": "NFS",
+    "sell": 222,
+    "source": "Delivering item for a villager",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "DummyCardboard",
+    "internalId": 4645
+  },
+  {
+    "name": "delivery box",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "Nook Shopping",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "QuestWrappingBox",
+    "internalId": 4245
+  },
+  {
+    "name": "DIY for Beginners",
+    "buy": 480,
+    "sell": "NA",
+    "source": "Nook's Cranny",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "DIYbook1",
+    "internalId": 5603
+  },
+  {
+    "name": "earth egg",
+    "buy": "NFS",
+    "sell": 200,
+    "source": "Dig spot (Bunny Day)",
+    "tag": "NA",
+    "version": "1.1.0a",
+    "filename": "EggGround",
+    "internalId": 12509
+  },
+  {
+    "name": "egg message bottle",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "Beach (Bunny Day)",
+    "tag": "NA",
+    "version": "1.1.0a",
+    "filename": "MessageBottleEgg",
+    "internalId": 12544
+  },
+  {
+    "name": "elegant mushroom",
+    "buy": "NFS",
+    "sell": 10000,
+    "source": "On ground (Mushroom Season)",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "MushSplendid",
+    "internalId": 3276
+  },
+  {
+    "name": "empty can",
+    "buy": "NFS",
+    "sell": 10,
+    "source": "Fishing",
+    "sourceNotes": "Small shadow",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "TrashCan",
+    "internalId": 3466
+  },
+  {
+    "name": "fish bait",
+    "buy": "NFS",
+    "sell": 200,
+    "source": "Crafting ",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "FishBait",
+    "internalId": 4549
+  },
+  {
+    "name": "flat mushroom",
+    "buy": "NFS",
+    "sell": 200,
+    "source": "On ground (Mushroom Season)",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "MushFlat",
+    "internalId": 3279
+  },
+  {
+    "name": "Flimsy Axe Recipe",
+    "buy": 280,
+    "sell": 200,
+    "source": "Nook's Cranny",
+    "sourceNotes": "Available after unlocking the axe in the story",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "DIYRecipeAxeWood",
+    "internalId": 12294
+  },
+  {
+    "name": "Flimsy Shovel Recipe",
+    "buy": 280,
+    "sell": 200,
+    "source": "Nook's Cranny",
+    "sourceNotes": "Available after unlocking the shovel in the story",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "DIYRecipeScoopWood",
+    "internalId": 9047
+  },
+  {
+    "name": "Flimsy Watering Can Recipe",
+    "buy": 280,
+    "sell": 200,
+    "source": "Nook's Cranny",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "DIYRecipeWateringWood",
+    "internalId": 9048
+  },
+  {
+    "name": "fossil",
+    "buy": "NFS",
+    "sell": 100,
+    "source": "Dig spot",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "Fossil",
+    "internalId": 2579
+  },
+  {
+    "name": "Gemini fragment",
+    "buy": "NFS",
+    "sell": 500,
+    "source": "Wishing on shooting stars (May 21 - June 20)",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "StarpieceGemini",
+    "internalId": 5990
+  },
+  {
+    "name": "giant clam",
+    "buy": "NFS",
+    "sell": 900,
+    "source": "Beach",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "ShellDriftSyako",
+    "internalId": 1381
+  },
+  {
+    "name": "gold nugget",
+    "buy": "NFS",
+    "sell": 10000,
+    "source": "Hitting a rock",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "DIYGold",
+    "internalId": 2505
+  },
+  {
+    "name": "gold ornament",
+    "buy": "NFS",
+    "sell": 50,
+    "source": "Shaking a cedar tree (Festive Season)",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "DIYOrnamentGold",
+    "internalId": 5732
+  },
+  {
+    "name": "gold roses",
+    "buy": "NFS",
+    "sell": 1000,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwRoseGold",
+    "internalId": 2963
+  },
+  {
+    "name": "gold wrapping paper",
+    "buy": 160,
+    "sell": 40,
+    "source": "Nook's Cranny",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "WPaperGold",
+    "internalId": 7695
+  },
+  {
+    "name": "gold-rose plant",
+    "buy": "NFS",
+    "sell": 1000,
+    "source": "Black/black roses\nWater with gold watering can",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltRoseGold3",
+    "internalId": 3878
+  },
+  {
+    "name": "gray wrapping paper",
+    "buy": 160,
+    "sell": 40,
+    "source": "Nook's Cranny",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "WPaperGray",
+    "internalId": 7697
+  },
+  {
+    "name": "green mums",
+    "buy": "NFS",
+    "sell": 240,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwMumGreen",
+    "internalId": 5175
+  },
+  {
+    "name": "green wrapping paper",
+    "buy": 160,
+    "sell": 40,
+    "source": "Nook's Cranny",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "WPaperGreen",
+    "internalId": 7687
+  },
+  {
+    "name": "green-mum plant",
+    "buy": "NFS",
+    "sell": 240,
+    "source": "Purple/purple mums",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltMumGreen3",
+    "internalId": 3934
+  },
+  {
+    "name": "hardwood",
+    "buy": "NFS",
+    "sell": 60,
+    "source": "Chopping a tree",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "DIYWoodHard",
+    "internalId": 2769
+  },
+  {
+    "name": "hardwood tree",
+    "buy": "NFS",
+    "sell": 240,
+    "source": "Planting a sapling",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltOak4",
+    "internalId": 2799
+  },
+  {
+    "name": "housing kit",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "Tom Nook",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "NnpcNewHousingkit",
+    "internalId": 3349
+  },
+  {
+    "name": "incline marker kit",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "Tom Nook",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "SlopeReserveKit",
+    "internalId": 4311
+  },
+  {
+    "name": "iron nugget",
+    "buy": "NFS",
+    "sell": 375,
+    "source": "Hitting a rock",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "DIYIron",
+    "internalId": 2511
+  },
+  {
+    "name": "Ladder Recipe",
+    "buy": 500,
+    "sell": 200,
+    "source": "Nook's Cranny",
+    "sourceNotes": "Available after unlocking the ladder in the story",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "DIYRecipeLadder",
+    "internalId": 12327
+  },
+  {
+    "name": "large snowflake",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "Perfect Snowboy",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "SnowCrystalLarge",
+    "internalId": 3540
+  },
+  {
+    "name": "large star fragment",
+    "buy": "NFS",
+    "sell": 2500,
+    "source": "Wishing on shooting stars",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "StarpieceRare",
+    "internalId": 5984
+  },
+  {
+    "name": "leaf egg",
+    "buy": "NFS",
+    "sell": 200,
+    "source": "Shaking a hardwood tree (Bunny Day)",
+    "tag": "NA",
+    "version": "1.1.0a",
+    "filename": "EggLeaf",
+    "internalId": 12511
+  },
+  {
+    "name": "Leo fragment",
+    "buy": "NFS",
+    "sell": 500,
+    "source": "Wishing on shooting stars (July 23 - August 22)",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "StarpieceLeo",
+    "internalId": 5992
+  },
+  {
+    "name": "Libra fragment",
+    "buy": "NFS",
+    "sell": 500,
+    "source": "Wishing on shooting stars (September 23 - October 22)",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "StarpieceLibra",
+    "internalId": 5994
+  },
+  {
+    "name": "light-blue wrapping paper",
+    "buy": 160,
+    "sell": 40,
+    "source": "Nook's Cranny",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "WPaperLightBlue",
+    "internalId": 7689
+  },
+  {
+    "name": "lily-of-the-valley plant",
+    "buy": "NFS",
+    "sell": 222,
+    "source": "5-star town status",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltSuzuran2",
+    "internalId": 7651
+  },
+  {
+    "name": "lost item",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "On ground",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "LostQuestBag",
+    "internalId": 2374
+  },
+  {
+    "name": "lost item",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "On ground",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "LostQuestBook",
+    "internalId": 2375
+  },
+  {
+    "name": "lost item",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "On ground",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "LostQuestNote",
+    "internalId": 5426
+  },
+  {
+    "name": "manila clam",
+    "buy": "NFS",
+    "sell": 100,
+    "source": "Clam dig spot",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "FtrShellFishAsari",
+    "internalId": 2567
+  },
+  {
+    "name": "maple leaf",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "Catching with a net (Fall)",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "AutumnLeaf",
+    "internalId": 7374
+  },
+  {
+    "name": "medicine",
+    "buy": 400,
+    "sell": 100,
+    "source": "Nook's Cranny",
+    "tag": "Hospital",
+    "version": "1.0.0",
+    "filename": "ItemMedicine",
+    "internalId": 2777
+  },
+  {
+    "name": "message bottle",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "Beach",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "MessageBottle",
+    "internalId": 5793
+  },
+  {
+    "name": "mint wrapping paper",
+    "buy": 160,
+    "sell": 40,
+    "source": "Nook's Cranny",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "WPaperMint",
+    "internalId": 7688
+  },
+  {
+    "name": "money tree",
+    "buy": "NFS",
+    "sell": 240,
+    "source": "Burying bells in a glowing spot",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltMoney4",
+    "internalId": 4426
+  },
+  {
+    "name": "moving kit",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "Tom Nook",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "MovingKitPlayer",
+    "internalId": 5358
+  },
+  {
+    "name": "museum moving kit",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "Tom Nook",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "MovingKitMuseum",
+    "internalId": 5361
+  },
+  {
+    "name": "navy wrapping paper",
+    "buy": 160,
+    "sell": 40,
+    "source": "Nook's Cranny",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "WPaperNavy",
+    "internalId": 7691
+  },
+  {
+    "name": "old tire",
+    "buy": "NFS",
+    "sell": 10,
+    "source": "Fishing",
+    "sourceNotes": "Large shadow",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "TrashTire",
+    "internalId": 3470
+  },
+  {
+    "name": "orange",
+    "buy": 400,
+    "sell": 500,
+    "source": "Orange tree",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "Orange",
+    "internalId": 2214
+  },
+  {
+    "name": "orange cosmos",
+    "buy": "NFS",
+    "sell": 80,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwCosmosOrange",
+    "internalId": 2871
+  },
+  {
+    "name": "orange hyacinths",
+    "buy": "NFS",
+    "sell": 80,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwHyacinthOrange",
+    "internalId": 3741
+  },
+  {
+    "name": "orange lilies",
+    "buy": "NFS",
+    "sell": 80,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwYuriOrange",
+    "internalId": 2995
+  },
+  {
+    "name": "orange pansies",
+    "buy": "NFS",
+    "sell": 80,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwPansyRedYellow",
+    "internalId": 2919
+  },
+  {
+    "name": "orange roses",
+    "buy": "NFS",
+    "sell": 80,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwRoseOrange",
+    "internalId": 2947
+  },
+  {
+    "name": "orange tree",
+    "buy": "NFS",
+    "sell": 300,
+    "source": "Planting an orange",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltOrange4",
+    "internalId": 3365
+  },
+  {
+    "name": "orange tulips",
+    "buy": "NFS",
+    "sell": 80,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwTulipOrange",
+    "internalId": 2895
+  },
+  {
+    "name": "orange windflowers",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwAnemonesOrange",
+    "internalId": 3713
+  },
+  {
+    "name": "orange wrapping paper",
+    "buy": 160,
+    "sell": 40,
+    "source": "Nook's Cranny",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "WPaperOrange",
+    "internalId": 7685
+  },
+  {
+    "name": "orange-cosmos plant",
+    "buy": "NFS",
+    "sell": 80,
+    "source": "Red/yellow cosmos",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltCosmosOrange3",
+    "internalId": 3832
+  },
+  {
+    "name": "orange-hyacinth plant",
+    "buy": "NFS",
+    "sell": 80,
+    "source": "Red/yellow hyacinths",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltHyacinthOrange3",
+    "internalId": 3916
+  },
+  {
+    "name": "orange-lily plant",
+    "buy": "NFS",
+    "sell": 80,
+    "source": "Red/yellow lilies",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltYuriOrange3",
+    "internalId": 3894
+  },
+  {
+    "name": "orange-pansy plant",
+    "buy": "NFS",
+    "sell": 80,
+    "source": "Red/yellow pansies",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltPansyRedYellow3",
+    "internalId": 3856
+  },
+  {
+    "name": "orange-rose plant",
+    "buy": "NFS",
+    "sell": 80,
+    "source": "Red/yellow roses",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltRoseOrange3",
+    "internalId": 3870
+  },
+  {
+    "name": "orange-tulip plant",
+    "buy": "NFS",
+    "sell": 80,
+    "source": "Red/yellow tulips",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltTulipOrange3",
+    "internalId": 3844
+  },
+  {
+    "name": "orange-windflower bag",
+    "buy": 240,
+    "sell": 60,
+    "source": "Nook's Cranny",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "SeedAnemonesOrange",
+    "internalId": 3714
+  },
+  {
+    "name": "orange-windflower plant",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Seed bag",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltAnemonesOrange3",
+    "internalId": 3900
+  },
+  {
+    "name": "peach",
+    "buy": 400,
+    "sell": 500,
+    "source": "Peach tree",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "Peach",
+    "internalId": 2286
+  },
+  {
+    "name": "peach tree",
+    "buy": "NFS",
+    "sell": 300,
+    "source": "Planting a peach",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltPeach4",
+    "internalId": 3375
+  },
+  {
+    "name": "pear",
+    "buy": 400,
+    "sell": 500,
+    "source": "Pear tree",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "Pear",
+    "internalId": 2285
+  },
+  {
+    "name": "pear tree",
+    "buy": "NFS",
+    "sell": 300,
+    "source": "Planting a pear",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltPear4",
+    "internalId": 3370
+  },
+  {
+    "name": "pine cone",
+    "buy": "NFS",
+    "sell": 200,
+    "source": "Shaking a cedar tree (Fall)",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "DIYPinecone",
+    "internalId": 5728
+  },
+  {
+    "name": "pink cosmos",
+    "buy": "NFS",
+    "sell": 80,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwCosmosPink",
+    "internalId": 2867
+  },
+  {
+    "name": "pink hyacinths",
+    "buy": "NFS",
+    "sell": 80,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwHyacinthPink",
+    "internalId": 3738
+  },
+  {
+    "name": "pink lilies",
+    "buy": "NFS",
+    "sell": 80,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwYuriPink",
+    "internalId": 2991
+  },
+  {
+    "name": "pink mums",
+    "buy": "NFS",
+    "sell": 80,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwMumPink",
+    "internalId": 3765
+  },
+  {
+    "name": "pink roses",
+    "buy": "NFS",
+    "sell": 80,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwRosePink",
+    "internalId": 2943
+  },
+  {
+    "name": "pink tulips",
+    "buy": "NFS",
+    "sell": 80,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwTulipPink",
+    "internalId": 2891
+  },
+  {
+    "name": "pink windflowers",
+    "buy": "NFS",
+    "sell": 80,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwAnemonesPink",
+    "internalId": 3720
+  },
+  {
+    "name": "pink wrapping paper",
+    "buy": 160,
+    "sell": 40,
+    "source": "Nook's Cranny",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "WPaperPink",
+    "internalId": 7684
+  },
+  {
+    "name": "pink-cosmos plant",
+    "buy": "NFS",
+    "sell": 80,
+    "source": "Red/white cosmos",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltCosmosPink3",
+    "internalId": 3830
+  },
+  {
+    "name": "pink-hyacinth plant",
+    "buy": "NFS",
+    "sell": 80,
+    "source": "Red/white hyacinths",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltHyacinthPink3",
+    "internalId": 3914
+  },
+  {
+    "name": "pink-lily plant",
+    "buy": "NFS",
+    "sell": 80,
+    "source": "Red/white lilies",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltYuriPink3",
+    "internalId": 3892
+  },
+  {
+    "name": "pink-mum plant",
+    "buy": "NFS",
+    "sell": 80,
+    "source": "Red/white mums",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltMumPink3",
+    "internalId": 3930
+  },
+  {
+    "name": "pink-rose plant",
+    "buy": "NFS",
+    "sell": 80,
+    "source": "Red/white roses",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltRosePink3",
+    "internalId": 3868
+  },
+  {
+    "name": "pink-tulip plant",
+    "buy": "NFS",
+    "sell": 80,
+    "source": "Red/white tulips",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltTulipPink3",
+    "internalId": 3842
+  },
+  {
+    "name": "pink-windflower plant",
+    "buy": "NFS",
+    "sell": 80,
+    "source": "Red/orange windflowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltAnemonesPink3",
+    "internalId": 3904
+  },
+  {
+    "name": "Pisces fragment",
+    "buy": "NFS",
+    "sell": 500,
+    "source": "Wishing on shooting stars (February 19 - March 20)",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "StarpiecePisces",
+    "internalId": 5987
+  },
+  {
+    "name": "pitfall seed",
+    "buy": "NFS",
+    "sell": 140,
+    "source": "Crafting",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "PitfallSeed",
+    "internalId": 2578
+  },
+  {
+    "name": "plot 1 housing kit",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "Tom Nook",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "HousingKitRcoQuestA",
+    "internalId": 5827
+  },
+  {
+    "name": "plot 2 housing kit",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "Tom Nook",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "HousingKitRcoQuestB",
+    "internalId": 5828
+  },
+  {
+    "name": "plot 3 housing kit",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "Tom Nook",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "HousingKitRcoQuestC",
+    "internalId": 5829
+  },
+  {
+    "name": "present",
+    "buy": "NFS",
+    "sell": 222,
+    "source": "Mail",
+    "tag": "Seasonal Decor",
+    "version": "1.0.0",
+    "filename": "DummyPresentbox",
+    "internalId": 4480
+  },
+  {
+    "name": "present (black)",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "Wrapping a present",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "DummyWrappingBlack",
+    "internalId": 7714
+  },
+  {
+    "name": "present (blue)",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "Wrapping a present",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "DummyWrappingBlue",
+    "internalId": 7708
+  },
+  {
+    "name": "present (brown)",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "Wrapping a present",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "DummyWrappingBrown",
+    "internalId": 7712
+  },
+  {
+    "name": "present (chartreuse)",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "Wrapping a present",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "DummyWrappingLightGreen",
+    "internalId": 7702
+  },
+  {
+    "name": "present (gold)",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "Wrapping a present",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "DummyWrappingGold",
+    "internalId": 7711
+  },
+  {
+    "name": "present (gray)",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "Wrapping a present",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "DummyWrappingGary",
+    "internalId": 7713
+  },
+  {
+    "name": "present (green)",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "Wrapping a present",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "DummyWrappingGreen",
+    "internalId": 7703
+  },
+  {
+    "name": "present (light-blue)",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "Wrapping a present",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "DummyWrappingLightBlue",
+    "internalId": 7705
+  },
+  {
+    "name": "present (mint)",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "Wrapping a present",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "DummyWrappingMint",
+    "internalId": 7704
+  },
+  {
+    "name": "present (navy)",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "Wrapping a present",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "DummyWrappingNavy",
+    "internalId": 7707
+  },
+  {
+    "name": "present (orange)",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "Wrapping a present",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "DummyWrappingOrange",
+    "internalId": 7701
+  },
+  {
+    "name": "present (pink)",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "Wrapping a present",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "DummyWrappingPink",
+    "internalId": 7700
+  },
+  {
+    "name": "present (purple)",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "Wrapping a present",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "DummyWrappingPurple",
+    "internalId": 7706
+  },
+  {
+    "name": "present (red)",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "Wrapping a present",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "DummyWrappingRed",
+    "internalId": 7710
+  },
+  {
+    "name": "present (white)",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "Wrapping a present",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "DummyWrappingWhite",
+    "internalId": 7709
+  },
+  {
+    "name": "present (yellow)",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "Wrapping a present",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "DummyWrappingYellow",
+    "internalId": 7699
+  },
+  {
+    "name": "purple hyacinths",
+    "buy": "NFS",
+    "sell": 240,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwHyacinthPurple",
+    "internalId": 3751
+  },
+  {
+    "name": "purple mums",
+    "buy": "NFS",
+    "sell": 80,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwMumPurple",
+    "internalId": 3762
+  },
+  {
+    "name": "purple pansies",
+    "buy": "NFS",
+    "sell": 240,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwPansyPurple",
+    "internalId": 2923
+  },
+  {
+    "name": "purple roses",
+    "buy": "NFS",
+    "sell": 240,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwRosePurple",
+    "internalId": 2951
+  },
+  {
+    "name": "purple tulips",
+    "buy": "NFS",
+    "sell": 240,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwTulipPurple",
+    "internalId": 2899
+  },
+  {
+    "name": "purple windflowers",
+    "buy": "NFS",
+    "sell": 240,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwAnemonesPurple",
+    "internalId": 3727
+  },
+  {
+    "name": "purple wrapping paper",
+    "buy": 160,
+    "sell": 40,
+    "source": "Nook's Cranny",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "WPaperPurple",
+    "internalId": 7690
+  },
+  {
+    "name": "purple-hyacinth plant",
+    "buy": "NFS",
+    "sell": 240,
+    "source": "Blue/blue hyacinths",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltHyacinthPurple3",
+    "internalId": 3922
+  },
+  {
+    "name": "purple-mum plant",
+    "buy": "NFS",
+    "sell": 80,
+    "source": "White/white mums",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltMumPurple3",
+    "internalId": 3928
+  },
+  {
+    "name": "purple-pansy plant",
+    "buy": "NFS",
+    "sell": 240,
+    "source": "Blue/blue pansies",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltPansyPurple3",
+    "internalId": 3858
+  },
+  {
+    "name": "purple-rose plant",
+    "buy": "NFS",
+    "sell": 240,
+    "source": "White/white roses",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltRosePurple3",
+    "internalId": 3872
+  },
+  {
+    "name": "purple-tulip plant",
+    "buy": "NFS",
+    "sell": 240,
+    "source": "Orange/orange tulips",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltTulipPurple3",
+    "internalId": 3846
+  },
+  {
+    "name": "purple-windflower plant",
+    "buy": "NFS",
+    "sell": 240,
+    "source": "Blue/blue windflowers\nBlue/pink windflowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltAnemonesPurple3",
+    "internalId": 3908
+  },
+  {
+    "name": "rare mushroom",
+    "buy": "NFS",
+    "sell": 16000,
+    "source": "On ground (Mushroom Season)",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "MushRare",
+    "internalId": 3280
+  },
+  {
+    "name": "red cosmos",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwCosmosRed",
+    "internalId": 2304
+  },
+  {
+    "name": "red hyacinths",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwHyacinthRed",
+    "internalId": 3744
+  },
+  {
+    "name": "red lilies",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwYuriRed",
+    "internalId": 2983
+  },
+  {
+    "name": "red mums",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwMumRed",
+    "internalId": 3768
+  },
+  {
+    "name": "red ornament",
+    "buy": "NFS",
+    "sell": 50,
+    "source": "Shaking a cedar tree (Festive Season)",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "DIYOrnamentRed",
+    "internalId": 5730
+  },
+  {
+    "name": "red pansies",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwPansyRed",
+    "internalId": 2911
+  },
+  {
+    "name": "red roses",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwRoseRed",
+    "internalId": 2935
+  },
+  {
+    "name": "red tulips",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwTulipRed",
+    "internalId": 2883
+  },
+  {
+    "name": "red windflowers",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwAnemonesRed",
+    "internalId": 3723
+  },
+  {
+    "name": "red wrapping paper",
+    "buy": 160,
+    "sell": 40,
+    "source": "Nook's Cranny",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "WPaperRed",
+    "internalId": 7694
+  },
+  {
+    "name": "red-cosmos bag",
+    "buy": 240,
+    "sell": 60,
+    "source": "Nook's Cranny",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "SeedCosmosRed",
+    "internalId": 2626
+  },
+  {
+    "name": "red-cosmos plant",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Seed bag",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltCosmosRed3",
+    "internalId": 3824
+  },
+  {
+    "name": "red-hyacinth bag",
+    "buy": 240,
+    "sell": 60,
+    "source": "Nook's Cranny",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "SeedHyacinthRed",
+    "internalId": 3745
+  },
+  {
+    "name": "red-hyacinth plant",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Seed bag",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltHyacinthRed3",
+    "internalId": 3918
+  },
+  {
+    "name": "red-lily bag",
+    "buy": 240,
+    "sell": 60,
+    "source": "Nook's Cranny",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "SeedYuriRed",
+    "internalId": 2984
+  },
+  {
+    "name": "red-lily plant",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Seed bag",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltYuriRed3",
+    "internalId": 3888
+  },
+  {
+    "name": "red-mum bag",
+    "buy": 240,
+    "sell": 60,
+    "source": "Nook's Cranny",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "SeedMumRed",
+    "internalId": 3769
+  },
+  {
+    "name": "red-mum plant",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Seed bag",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltMumRed3",
+    "internalId": 3932
+  },
+  {
+    "name": "red-pansy bag",
+    "buy": 240,
+    "sell": 60,
+    "source": "Nook's Cranny",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "SeedPansyRed",
+    "internalId": 2912
+  },
+  {
+    "name": "red-pansy plant",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Seed bag",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltPansyRed3",
+    "internalId": 3852
+  },
+  {
+    "name": "red-rose bag",
+    "buy": 240,
+    "sell": 60,
+    "source": "Nook's Cranny",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "SeedRoseRed",
+    "internalId": 2936
+  },
+  {
+    "name": "red-rose plant",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Seed bag",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltRoseRed3",
+    "internalId": 3864
+  },
+  {
+    "name": "red-tulip bag",
+    "buy": 240,
+    "sell": 60,
+    "source": "Nook's Cranny",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "SeedTulipRed",
+    "internalId": 2884
+  },
+  {
+    "name": "red-tulip plant",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Seed bag",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltTulipRed3",
+    "internalId": 3838
+  },
+  {
+    "name": "red-windflower bag",
+    "buy": 240,
+    "sell": 60,
+    "source": "Nook's Cranny",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "SeedAnemonesRed",
+    "internalId": 3724
+  },
+  {
+    "name": "red-windflower plant",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Seed bag",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltAnemonesRed3",
+    "internalId": 3906
+  },
+  {
+    "name": "round mushroom",
+    "buy": "NFS",
+    "sell": 200,
+    "source": "On ground (Mushroom Season)",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "MushRound",
+    "internalId": 3277
+  },
+  {
+    "name": "rusted part",
+    "buy": "NFS",
+    "sell": 10,
+    "source": "Recycle Box",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "JohnnyQuestDust1",
+    "internalId": 2389
+  },
+  {
+    "name": "Sagittarius fragment",
+    "buy": "NFS",
+    "sell": 500,
+    "source": "Wishing on shooting stars (November 22 - December 21)",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "StarpieceSagittarius",
+    "internalId": 5996
+  },
+  {
+    "name": "Saharah Ticket",
+    "buy": "NFS",
+    "sell": 100,
+    "source": "Saharah",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "RollanTicket",
+    "internalId": 9261
+  },
+  {
+    "name": "sand dollar",
+    "buy": "NFS",
+    "sell": 120,
+    "source": "Beach",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "ShellDriftSanddollar",
+    "internalId": 1379
+  },
+  {
+    "name": "sapling",
+    "buy": 640,
+    "sell": 160,
+    "source": "Nook's Cranny",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "SeedOak",
+    "internalId": 2794
+  },
+  {
+    "name": "Scorpius fragment",
+    "buy": "NFS",
+    "sell": 500,
+    "source": "Wishing on shooting stars (October 23 - November 21)",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "StarpieceScorpio",
+    "internalId": 5995
+  },
+  {
+    "name": "sea snail",
+    "buy": "NFS",
+    "sell": 180,
+    "source": "Beach",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "ShellDriftEbisu",
+    "internalId": 1374
+  },
+  {
+    "name": "shop construction kit",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "Tom Nook",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "ShopTent",
+    "internalId": 2756
+  },
+  {
+    "name": "shop moving kit",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "Tom Nook",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "MovingKitShop",
+    "internalId": 5360
+  },
+  {
+    "name": "skinny mushroom",
+    "buy": "NFS",
+    "sell": 300,
+    "source": "On ground (Mushroom Season)",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "MushSlender",
+    "internalId": 3278
+  },
+  {
+    "name": "sky egg",
+    "buy": "NFS",
+    "sell": 200,
+    "source": "Colorful balloon (Bunny Day)",
+    "tag": "NA",
+    "version": "1.1.0a",
+    "filename": "EggSky",
+    "internalId": 12513
+  },
+  {
+    "name": "Slingshot Recipe",
+    "buy": 300,
+    "sell": 200,
+    "source": "Nook's Cranny",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "DIYRecipeSlingShot",
+    "internalId": 10309
+  },
+  {
+    "name": "snowflake",
+    "buy": "NFS",
+    "sell": 200,
+    "source": "Catching with a net (Winter)",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "SnowCrystal",
+    "internalId": 3539
+  },
+  {
+    "name": "softwood",
+    "buy": "NFS",
+    "sell": 60,
+    "source": "Chopping a tree",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "DIYWoodSoft",
+    "internalId": 2767
+  },
+  {
+    "name": "spoiled turnips",
+    "buy": "NFS",
+    "sell": 100,
+    "source": "Expired turnips",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "Kabu_Spoil",
+    "internalId": 2642
+  },
+  {
+    "name": "star fragment",
+    "buy": "NFS",
+    "sell": 250,
+    "source": "Wishing on shooting stars",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "Starpiece",
+    "internalId": 5983
+  },
+  {
+    "name": "stone",
+    "buy": "NFS",
+    "sell": 75,
+    "source": "Hitting a rock, Fishing",
+    "sourceNotes": "X-Small shadow when fishing",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "DIYStone",
+    "internalId": 2502
+  },
+  {
+    "name": "stone egg",
+    "buy": "NFS",
+    "sell": 200,
+    "source": "Hitting a rock (Bunny Day)",
+    "tag": "NA",
+    "version": "1.1.0a",
+    "filename": "EggRock",
+    "internalId": 12510
+  },
+  {
+    "name": "summer shell",
+    "buy": "NFS",
+    "sell": 600,
+    "source": "Beach (Summer)",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "ShellDriftSummer",
+    "internalId": 5982
+  },
+  {
+    "name": "tailors construction kit",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "Tom Nook",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "HousingKitTailor",
+    "internalId": 4411
+  },
+  {
+    "name": "tailors moving kit",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "Tom Nook",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "MovingKitTailor",
+    "internalId": 5359
+  },
+  {
+    "name": "tailors ticket",
+    "buy": "NFS",
+    "sell": 250,
+    "source": "Label",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "TailorTicket",
+    "internalId": 5932
+  },
+  {
+    "name": "Taurus fragment",
+    "buy": "NFS",
+    "sell": 500,
+    "source": "Wishing on shooting stars (April 20 - May 20)",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "StarpieceTaurus",
+    "internalId": 5989
+  },
+  {
+    "name": "tent",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "Tom Nook",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "TutorialTent",
+    "internalId": 2750
+  },
+  {
+    "name": "Test Your DIY Skills",
+    "buy": 2680,
+    "sell": "NA",
+    "source": "Nook's Cranny",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "DIYbook2",
+    "internalId": 5604
+  },
+  {
+    "name": "treasure",
+    "buy": "NFS",
+    "sell": 0,
+    "source": "Digging up treasure for a villager's quest",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "TreasureCapsule",
+    "internalId": 2545
+  },
+  {
+    "name": "tree branch",
+    "buy": "NFS",
+    "sell": 5,
+    "source": "Shaking a hardwood or cedar tree",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "DIYBranch",
+    "internalId": 2500
+  },
+  {
+    "name": "turnips",
+    "buy": "NFS",
+    "sell": 0,
+    "source": "Daisy Mae (Sundays)",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "PhotoStudioKabu",
+    "internalId": 7734
+  },
+  {
+    "name": "Vaulting Pole Recipe",
+    "buy": 500,
+    "sell": 200,
+    "source": "Nook's Cranny",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "DIYRecipeLongWoodenStick",
+    "internalId": 9046
+  },
+  {
+    "name": "venus comb",
+    "buy": "NFS",
+    "sell": 300,
+    "source": "Beach",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "ShellDriftHone",
+    "internalId": 1375
+  },
+  {
+    "name": "Virgo fragment",
+    "buy": "NFS",
+    "sell": 500,
+    "source": "Wishing on shooting stars (August 23 - September 22)",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "StarpieceVirgo",
+    "internalId": 5993
+  },
+  {
+    "name": "wasp nest",
+    "buy": "NFS",
+    "sell": 300,
+    "source": "Shaking a hardwood or cedar tree",
+    "tag": "Ranch",
+    "version": "1.0.0",
+    "filename": "Honeycomb",
+    "internalId": 3263
+  },
+  {
+    "name": "water egg",
+    "buy": "NFS",
+    "sell": 200,
+    "source": "Fishing (Bunny Day)",
+    "tag": "NA",
+    "version": "1.1.0a",
+    "filename": "EggFish",
+    "internalId": 12514
+  },
+  {
+    "name": "What was this again?",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "Don't return lost item",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "LostQuestBagDust",
+    "internalId": 4642
+  },
+  {
+    "name": "What was this again?",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "Don't return lost item",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "LostQuestBookDust",
+    "internalId": 4643
+  },
+  {
+    "name": "What was this again?",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "Don't return lost item",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "LostQuestNoteDust",
+    "internalId": 5427
+  },
+  {
+    "name": "white cosmos",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwCosmosWhite",
+    "internalId": 2305
+  },
+  {
+    "name": "white hyacinths",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwHyacinthWhite",
+    "internalId": 3730
+  },
+  {
+    "name": "white lilies",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwYuriWhite",
+    "internalId": 2979
+  },
+  {
+    "name": "white mums",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwMumWhite",
+    "internalId": 3754
+  },
+  {
+    "name": "white pansies",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwPansyWhite",
+    "internalId": 2907
+  },
+  {
+    "name": "white roses",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwRoseWhite",
+    "internalId": 2931
+  },
+  {
+    "name": "white tulips",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwTulipWhite",
+    "internalId": 2879
+  },
+  {
+    "name": "white windflowers",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwAnemonesWhite",
+    "internalId": 3709
+  },
+  {
+    "name": "white wrapping paper",
+    "buy": 160,
+    "sell": 40,
+    "source": "Nook's Cranny",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "WPaperWhite",
+    "internalId": 7693
+  },
+  {
+    "name": "white-cosmos bag",
+    "buy": 240,
+    "sell": 60,
+    "source": "Nook's Cranny",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "SeedCosmosWhite",
+    "internalId": 2629
+  },
+  {
+    "name": "white-cosmos plant",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Seed bag",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltCosmosWhite3",
+    "internalId": 3826
+  },
+  {
+    "name": "white-hyacinth bag",
+    "buy": 240,
+    "sell": 60,
+    "source": "Nook's Cranny",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "SeedHyacinthWhite",
+    "internalId": 3731
+  },
+  {
+    "name": "white-hyacinth plant",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Seed bag",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltHyacinthWhite3",
+    "internalId": 3910
+  },
+  {
+    "name": "white-lily bag",
+    "buy": 240,
+    "sell": 60,
+    "source": "Nook's Cranny",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "SeedYuriWhite",
+    "internalId": 2980
+  },
+  {
+    "name": "white-lily plant",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Seed bag",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltYuriWhite3",
+    "internalId": 3886
+  },
+  {
+    "name": "white-mum bag",
+    "buy": 240,
+    "sell": 60,
+    "source": "Nook's Cranny",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "SeedMumWhite",
+    "internalId": 3755
+  },
+  {
+    "name": "white-mum plant",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Seed bag",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltMumWhite3",
+    "internalId": 3924
+  },
+  {
+    "name": "white-pansy bag",
+    "buy": 240,
+    "sell": 60,
+    "source": "Nook's Cranny",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "SeedPansyWhite",
+    "internalId": 2908
+  },
+  {
+    "name": "white-pansy plant",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Seed bag",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltPansyWhite3",
+    "internalId": 3850
+  },
+  {
+    "name": "white-rose bag",
+    "buy": 240,
+    "sell": 60,
+    "source": "Nook's Cranny",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "SeedRoseWhite",
+    "internalId": 2932
+  },
+  {
+    "name": "white-rose plant",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Seed bag",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltRoseWhite3",
+    "internalId": 3862
+  },
+  {
+    "name": "white-tulip bag",
+    "buy": 240,
+    "sell": 60,
+    "source": "Nook's Cranny",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "SeedTulipWhite",
+    "internalId": 2880
+  },
+  {
+    "name": "white-tulip plant",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Seed bag",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltTulipWhite3",
+    "internalId": 3836
+  },
+  {
+    "name": "white-windflower bag",
+    "buy": 240,
+    "sell": 60,
+    "source": "Nook's Cranny",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "SeedAnemonesWhite",
+    "internalId": 3710
+  },
+  {
+    "name": "white-windflower plant",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Seed bag",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltAnemonesWhite3",
+    "internalId": 3898
+  },
+  {
+    "name": "Wildest Dreams DIY",
+    "buy": 6980,
+    "sell": "NA",
+    "source": "Nook's Cranny",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "DIYbook3",
+    "internalId": 5605
+  },
+  {
+    "name": "Wisp spirit piece",
+    "buy": "NFS",
+    "sell": "NA",
+    "source": "Catching with a net while on a quest for Wisp",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "YutaroWisp",
+    "internalId": 4702
+  },
+  {
+    "name": "wood",
+    "buy": "NFS",
+    "sell": 60,
+    "source": "Chopping a tree",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "DIYWoodNormal",
+    "internalId": 2768
+  },
+  {
+    "name": "wood egg",
+    "buy": "NFS",
+    "sell": 200,
+    "source": "Chopping a tree (Bunny Day)",
+    "tag": "NA",
+    "version": "1.1.0a",
+    "filename": "EggForest",
+    "internalId": 12512
+  },
+  {
+    "name": "yellow cosmos",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwCosmosYellow",
+    "internalId": 2863
+  },
+  {
+    "name": "yellow hyacinths",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwHyacinthYellow",
+    "internalId": 3734
+  },
+  {
+    "name": "yellow lilies",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwYuriYellow",
+    "internalId": 2987
+  },
+  {
+    "name": "yellow mums",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwMumYellow",
+    "internalId": 3758
+  },
+  {
+    "name": "yellow pansies",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwPansyYellow",
+    "internalId": 2915
+  },
+  {
+    "name": "yellow roses",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwRoseYellow",
+    "internalId": 2939
+  },
+  {
+    "name": "yellow tulips",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Picking flowers",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "FlwTulipYellow",
+    "internalId": 2887
+  },
+  {
+    "name": "yellow wrapping paper",
+    "buy": 160,
+    "sell": 40,
+    "source": "Nook's Cranny",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "WPaperYellow",
+    "internalId": 7683
+  },
+  {
+    "name": "yellow-cosmos bag",
+    "buy": 240,
+    "sell": 60,
+    "source": "Nook's Cranny",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "SeedCosmosYellow",
+    "internalId": 2864
+  },
+  {
+    "name": "yellow-cosmos plant",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Seed bag",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltCosmosYellow3",
+    "internalId": 3828
+  },
+  {
+    "name": "yellow-hyacinth bag",
+    "buy": 240,
+    "sell": 60,
+    "source": "Nook's Cranny",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "SeedHyacinthYellow",
+    "internalId": 3735
+  },
+  {
+    "name": "yellow-hyacinth plant",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Seed bag",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltHyacinthYellow3",
+    "internalId": 3912
+  },
+  {
+    "name": "yellow-lily bag",
+    "buy": 240,
+    "sell": 60,
+    "source": "Nook's Cranny",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "SeedYuriYellow",
+    "internalId": 2988
+  },
+  {
+    "name": "yellow-lily plant",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Seed bag",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltYuriYellow3",
+    "internalId": 3890
+  },
+  {
+    "name": "yellow-mum bag",
+    "buy": 240,
+    "sell": 60,
+    "source": "Nook's Cranny",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "SeedMumYellow",
+    "internalId": 3759
+  },
+  {
+    "name": "yellow-mum plant",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Seed bag",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltMumYellow3",
+    "internalId": 3926
+  },
+  {
+    "name": "yellow-pansy bag",
+    "buy": 240,
+    "sell": 60,
+    "source": "Nook's Cranny",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "SeedPansyYellow",
+    "internalId": 2916
+  },
+  {
+    "name": "yellow-pansy plant",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Seed bag",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltPansyYellow3",
+    "internalId": 3854
+  },
+  {
+    "name": "yellow-rose bag",
+    "buy": 240,
+    "sell": 60,
+    "source": "Nook's Cranny",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "SeedRoseYellow",
+    "internalId": 2940
+  },
+  {
+    "name": "yellow-rose plant",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Seed bag",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltRoseYellow3",
+    "internalId": 3866
+  },
+  {
+    "name": "yellow-tulip bag",
+    "buy": 240,
+    "sell": 60,
+    "source": "Nook's Cranny",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "SeedTulipYellow",
+    "internalId": 2888
+  },
+  {
+    "name": "yellow-tulip plant",
+    "buy": "NFS",
+    "sell": 40,
+    "source": "Seed bag",
+    "tag": "Plants",
+    "version": "1.0.0",
+    "filename": "PltTulipYellow3",
+    "internalId": 3840
+  },
+  {
+    "name": "young spring bamboo",
+    "buy": "NFS",
+    "sell": 200,
+    "source": "Chopping a bamboo tree (Spring)",
+    "tag": "NA",
+    "version": "1.0.0",
+    "filename": "DIYBambooSpring",
+    "internalId": 5729
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "name": "bamboo lattice fence",
+    "diy": "Yes",
+    "buy": "NFS",
+    "sell": 960,
+    "source": "Crafting",
+    "sourceNotes": "Nook Miles Exchange",
+    "version": "1.0.0",
+    "filename": "ItemFenceBamboo",
+    "internalId": 3403
+  },
+  {
+    "name": "barbed-wire fence",
+    "diy": "Yes",
+    "buy": "NFS",
+    "sell": 1980,
+    "source": "Crafting",
+    "sourceNotes": "Nook Miles Exchange",
+    "version": "1.0.0",
+    "filename": "ItemFenceBarbedWire",
+    "internalId": 5213
+  },
+  {
+    "name": "brick fence",
+    "diy": "Yes",
+    "buy": "NFS",
+    "sell": 1200,
+    "source": "Crafting",
+    "sourceNotes": "Nook Miles Exchange",
+    "version": "1.0.0",
+    "filename": "ItemFenceWallRenga",
+    "internalId": 3080
+  },
+  {
+    "name": "Bunny Day fence",
+    "diy": "Yes",
+    "buy": "NFS",
+    "sell": 2400,
+    "source": "Crafting",
+    "sourceNotes": "Obtained randomly from villager, egg message bottle or egg balloon during Bunny Day event",
+    "version": "1.1.0a",
+    "filename": "ItemFenceEgg",
+    "internalId": 12630
+  },
+  {
+    "name": "corral fence",
+    "diy": "Yes",
+    "buy": "NFS",
+    "sell": 720,
+    "source": "Crafting",
+    "sourceNotes": "Nook Miles Exchange",
+    "version": "1.0.0",
+    "filename": "ItemFenceHorizontalWood",
+    "internalId": 4349
+  },
+  {
+    "name": "country fence",
+    "diy": "Yes",
+    "buy": "NFS",
+    "sell": 720,
+    "source": "Crafting",
+    "sourceNotes": "Nook Miles Exchange",
+    "version": "1.0.0",
+    "filename": "ItemFenceLog",
+    "internalId": 4350
+  },
+  {
+    "name": "imperial fence",
+    "diy": "Yes",
+    "buy": "NFS",
+    "sell": 1200,
+    "source": "Crafting",
+    "sourceNotes": "Nook Miles Exchange",
+    "version": "1.0.0",
+    "filename": "ItemFenceChinese",
+    "internalId": 4354
+  },
+  {
+    "name": "iron fence",
+    "diy": "Yes",
+    "buy": "NFS",
+    "sell": 4500,
+    "source": "Crafting",
+    "sourceNotes": "Nook Miles Exchange",
+    "version": "1.0.0",
+    "filename": "ItemFenceSteel",
+    "internalId": 4357
+  },
+  {
+    "name": "iron-and-stone fence",
+    "diy": "Yes",
+    "buy": "NFS",
+    "sell": 3150,
+    "source": "Crafting",
+    "sourceNotes": "Nook Miles Exchange",
+    "version": "1.0.0",
+    "filename": "ItemFenceIronAndStone",
+    "internalId": 5206
+  },
+  {
+    "name": "lattice fence",
+    "diy": "Yes",
+    "buy": "NFS",
+    "sell": 960,
+    "source": "Crafting",
+    "sourceNotes": "Nook Miles Exchange",
+    "version": "1.0.0",
+    "filename": "ItemFenceLatiiceNatural",
+    "internalId": 11712
+  },
+  {
+    "name": "rope fence",
+    "diy": "Yes",
+    "buy": "NFS",
+    "sell": 3000,
+    "source": "Crafting",
+    "sourceNotes": "Nook Miles Exchange",
+    "version": "1.0.0",
+    "filename": "ItemFencePegRope",
+    "internalId": 4352
+  },
+  {
+    "name": "simple wooden fence",
+    "diy": "Yes",
+    "buy": "NFS",
+    "sell": 720,
+    "source": "Crafting",
+    "sourceNotes": "Nook Miles Exchange",
+    "version": "1.0.0",
+    "filename": "ItemFenceNatural",
+    "internalId": 11711
+  },
+  {
+    "name": "spiky fence",
+    "diy": "Yes",
+    "buy": "NFS",
+    "sell": 960,
+    "source": "Crafting",
+    "sourceNotes": "Nook Miles Exchange",
+    "version": "1.0.0",
+    "filename": "ItemFenceSharply",
+    "internalId": 4358
+  },
+  {
+    "name": "stone fence",
+    "diy": "Yes",
+    "buy": "NFS",
+    "sell": 600,
+    "source": "Crafting",
+    "sourceNotes": "Nook Miles Exchange",
+    "version": "1.0.0",
+    "filename": "ItemFenceStone",
+    "internalId": 5212
+  },
+  {
+    "name": "straw fence",
+    "diy": "Yes",
+    "buy": "NFS",
+    "sell": 560,
+    "source": "Crafting",
+    "sourceNotes": "Nook Miles Exchange",
+    "version": "1.0.0",
+    "filename": "ItemFenceDriedStraw",
+    "internalId": 4356
+  },
+  {
+    "name": "vertical-board fence",
+    "diy": "Yes",
+    "buy": "NFS",
+    "sell": 960,
+    "source": "Crafting",
+    "sourceNotes": "Nook Miles Exchange",
+    "version": "1.0.0",
+    "filename": "ItemFenceVerticalWood",
+    "internalId": 3402
+  },
+  {
+    "name": "zen fence",
+    "diy": "Yes",
+    "buy": "NFS",
+    "sell": 3300,
+    "source": "Crafting",
+    "sourceNotes": "Nook Miles Exchange",
+    "version": "1.0.0",
+    "filename": "ItemFenceJapanese",
+    "internalId": 5207
+  }
+]

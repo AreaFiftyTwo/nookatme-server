@@ -1,0 +1,1417 @@
+[
+  {
+    "bridge": "brick bridge",
+    "buy": 198000,
+    "category": "Bridge",
+    "source": "Resident Services Upgrade"
+  },
+  {
+    "bridge": "iron bridge",
+    "buy": 228000,
+    "category": "Bridge",
+    "source": "Resident Services Upgrade"
+  },
+  {
+    "bridge": "log bridge",
+    "buy": 98000,
+    "category": "Bridge",
+    "source": "Resident Services Upgrade"
+  },
+  {
+    "bridge": "red zen bridge",
+    "buy": 228000,
+    "category": "Bridge",
+    "source": "Resident Services Upgrade"
+  },
+  {
+    "bridge": "stone bridge",
+    "buy": 168000,
+    "category": "Bridge",
+    "source": "Resident Services Upgrade"
+  },
+  {
+    "bridge": "suspension bridge",
+    "buy": 129800,
+    "category": "Bridge",
+    "source": "Resident Services Upgrade"
+  },
+  {
+    "bridge": "wooden bridge",
+    "buy": 168000,
+    "category": "Bridge",
+    "source": "Resident Services Upgrade"
+  },
+  {
+    "bridge": "zen bridge",
+    "buy": 228000,
+    "category": "Bridge",
+    "source": "Resident Services Upgrade"
+  },
+  {
+    "bridge": "basic door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "beige basic door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "beige simple door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "beige windowed door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "beige wooden door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "black common door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "black fancy door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "black imperial door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "black latticework door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "black rustic door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "black vertical-panes door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "black zen door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "blue basic door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "blue common door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "blue iron door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "blue latticework door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "blue metal-accent door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "blue rustic door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "blue simple door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "blue vertical-panes door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "blue windowed door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "blue wooden door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "brown imperial door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "brown latticework door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "brown metal-accent door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "brown zen door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "burgundy basic door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "common door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "cyan vertical-panes door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "dark-brown iron grill door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "deep-green simple door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "gray common door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "gray iron door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "gray iron grill door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "gray latticework door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "gray simple door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "gray windowed door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "gray wooden door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "green basic door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "green common door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "green imperial door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "green iron door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "green iron grill door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "green metal-accent door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "green rustic door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "green vertical-panes door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "green windowed door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "green wooden door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "green-apple basic door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "green-apple common door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "imperial door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "iron door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "iron grill door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "lacquered zen door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "latticework door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "light-green rustic door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "maple iron grill door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "maple rustic door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "maple vertical-panes door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "maple windowed door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "maple wooden door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "metal-accent door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "pale-blue basic door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "pale-blue fancy door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "pale-blue iron grill door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "pale-purple rustic door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "pink basic door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "pink fancy door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "pink iron door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "pink iron grill door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "pink metal-accent door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "pink rustic door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "pink simple door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "pink windowed door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "pink wooden door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "purple common door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "purple iron grill door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "purple metal-accent door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "purple simple door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "purple vertical-panes door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "purple windowed door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "purple wooden door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "red common door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "red fancy door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "red imperial door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "red iron door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "red iron grill door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "red latticework door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "red metal-accent door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "red rustic door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "red vertical-panes door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "red windowed door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "red wooden door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "red zen door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "red-green imperial door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "rustic door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "vertical-panes door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "walnut latticework door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "white basic door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "white common door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "white fancy door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "white imperial door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "white iron door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "white iron grill door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "white latticework door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "white metal-accent door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "white rustic door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "white simple door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "white vertical-panes door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "white windowed door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "white wooden door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "white zen door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "windowed door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "wooden door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "yellow basic door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "yellow common door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "yellow fancy door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "yellow imperial door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "yellow iron door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "yellow simple door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "yellow vertical-panes door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "yellow zen door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "zen door",
+    "buy": 5000,
+    "category": "Door",
+    "source": "4th House Upgrade (Right Room)"
+  },
+  {
+    "bridge": "black large mailbox",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "black ordinary mailbox",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "black square mailbox",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "blue large mailbox",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "blue ordinary mailbox",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "blue square mailbox",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "blue wooden mailbox",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "chic wooden mailbox",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "green large mailbox",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "green ordinary mailbox",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "green square mailbox",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "green wooden mailbox",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "large mailbox",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "ordinary mailbox",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "pink large mailbox",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "pink ordinary mailbox",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "pink square mailbox",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "pink wooden mailbox",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "red large mailbox",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "red ordinary mailbox",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "red square mailbox",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "red wooden mailbox",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "rustic mailbox",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "square mailbox",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "white large mailbox",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "white ordinary mailbox",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "white square mailbox",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "white wooden mailbox",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "wooden mailbox",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "yellow large mailbox",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "yellow ordinary mailbox",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "yellow square mailbox",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "yellow wooden mailbox",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "blue steel staircase",
+    "buy": 228000,
+    "category": "Incline",
+    "source": "Resident Services Upgrade"
+  },
+  {
+    "bridge": "blue-plank ramp",
+    "buy": 128000,
+    "category": "Incline",
+    "source": "Resident Services Upgrade"
+  },
+  {
+    "bridge": "brick staircase",
+    "buy": 198000,
+    "category": "Incline",
+    "source": "Resident Services Upgrade"
+  },
+  {
+    "bridge": "log staircase",
+    "buy": 168000,
+    "category": "Incline",
+    "source": "Resident Services Upgrade"
+  },
+  {
+    "bridge": "natural ramp",
+    "buy": 98000,
+    "category": "Incline",
+    "source": "Resident Services Upgrade"
+  },
+  {
+    "bridge": "red steel staircase",
+    "buy": 228000,
+    "category": "Incline",
+    "source": "Resident Services Upgrade"
+  },
+  {
+    "bridge": "stone staircase",
+    "buy": 168000,
+    "category": "Incline",
+    "source": "Resident Services Upgrade"
+  },
+  {
+    "bridge": "white-plank ramp",
+    "buy": 128000,
+    "category": "Incline",
+    "source": "Resident Services Upgrade"
+  },
+  {
+    "bridge": "aqua tile roof",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "beige curved shingles",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "beige stone roof",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "black curved shingles",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "black stone roof",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "black thatch roof",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "black tile roof",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "blue curved shingles",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "blue stone roof",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "brown curved shingles",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "brown stone roof",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "brown thatch roof",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "deep-green thatch roof",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "fresh-grass thatch roof",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "golden-brown thatch roof",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "gray thatch roof",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "green curved shingles",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "green stone roof",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "green tile roof",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "grey stone roof",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "orange curved shingles",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "orange stone roof",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "orange thatch roof",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "pink curved shingles",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "pink tile roof",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "purple tile roof",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "red stone roof",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "red tile roof",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "white thatch roof",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "yellow curved shingles",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "yellow tile roof",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "buy": 5000,
+    "category": "Roofing",
+    "source": "3rd House Upgrade (Left Room)"
+  },
+  {
+    "bridge": "beige stucco exterior",
+    "buy": 5000,
+    "category": "Siding",
+    "source": "5th House Upgrade (2nd Floor)"
+  },
+  {
+    "bridge": "black chalet exterior",
+    "buy": 5000,
+    "category": "Siding",
+    "source": "5th House Upgrade (2nd Floor)"
+  },
+  {
+    "bridge": "black common exterior",
+    "buy": 5000,
+    "category": "Siding",
+    "source": "5th House Upgrade (2nd Floor)"
+  },
+  {
+    "bridge": "black stucco exterior",
+    "buy": 5000,
+    "category": "Siding",
+    "source": "5th House Upgrade (2nd Floor)"
+  },
+  {
+    "bridge": "blue cobblestone exterior",
+    "buy": 5000,
+    "category": "Siding",
+    "source": "5th House Upgrade (2nd Floor)"
+  },
+  {
+    "bridge": "blue stucco exterior",
+    "buy": 5000,
+    "category": "Siding",
+    "source": "5th House Upgrade (2nd Floor)"
+  },
+  {
+    "bridge": "blue-trim common exterior",
+    "buy": 5000,
+    "category": "Siding",
+    "source": "5th House Upgrade (2nd Floor)"
+  },
+  {
+    "bridge": "brown chalet exterior",
+    "buy": 5000,
+    "category": "Siding",
+    "source": "5th House Upgrade (2nd Floor)"
+  },
+  {
+    "bridge": "brown cobblestone exterior",
+    "buy": 5000,
+    "category": "Siding",
+    "source": "5th House Upgrade (2nd Floor)"
+  },
+  {
+    "bridge": "chalet exterior",
+    "buy": 5000,
+    "category": "Siding",
+    "source": "5th House Upgrade (2nd Floor)"
+  },
+  {
+    "bridge": "chic cobblestone exterior",
+    "buy": 5000,
+    "category": "Siding",
+    "source": "5th House Upgrade (2nd Floor)"
+  },
+  {
+    "bridge": "cobblestone exterior",
+    "buy": 5000,
+    "category": "Siding",
+    "source": "5th House Upgrade (2nd Floor)"
+  },
+  {
+    "bridge": "common exterior",
+    "buy": 5000,
+    "category": "Siding",
+    "source": "5th House Upgrade (2nd Floor)"
+  },
+  {
+    "bridge": "cream chalet exterior",
+    "buy": 5000,
+    "category": "Siding",
+    "source": "5th House Upgrade (2nd Floor)"
+  },
+  {
+    "bridge": "gray cobblestone exterior",
+    "buy": 5000,
+    "category": "Siding",
+    "source": "5th House Upgrade (2nd Floor)"
+  },
+  {
+    "bridge": "gray stucco exterior",
+    "buy": 5000,
+    "category": "Siding",
+    "source": "5th House Upgrade (2nd Floor)"
+  },
+  {
+    "bridge": "gray-trim common exterior",
+    "buy": 5000,
+    "category": "Siding",
+    "source": "5th House Upgrade (2nd Floor)"
+  },
+  {
+    "bridge": "green cobblestone exterior",
+    "buy": 5000,
+    "category": "Siding",
+    "source": "5th House Upgrade (2nd Floor)"
+  },
+  {
+    "bridge": "light-blue chalet exterior",
+    "buy": 5000,
+    "category": "Siding",
+    "source": "5th House Upgrade (2nd Floor)"
+  },
+  {
+    "bridge": "orange chalet exterior",
+    "buy": 5000,
+    "category": "Siding",
+    "source": "5th House Upgrade (2nd Floor)"
+  },
+  {
+    "bridge": "orange cobblestone exterior",
+    "buy": 5000,
+    "category": "Siding",
+    "source": "5th House Upgrade (2nd Floor)"
+  },
+  {
+    "bridge": "pink common exterior",
+    "buy": 5000,
+    "category": "Siding",
+    "source": "5th House Upgrade (2nd Floor)"
+  },
+  {
+    "bridge": "pink stucco exterior",
+    "buy": 5000,
+    "category": "Siding",
+    "source": "5th House Upgrade (2nd Floor)"
+  },
+  {
+    "bridge": "red chalet exterior",
+    "buy": 5000,
+    "category": "Siding",
+    "source": "5th House Upgrade (2nd Floor)"
+  },
+  {
+    "bridge": "red cobblestone exterior",
+    "buy": 5000,
+    "category": "Siding",
+    "source": "5th House Upgrade (2nd Floor)"
+  },
+  {
+    "bridge": "red common exterior",
+    "buy": 5000,
+    "category": "Siding",
+    "source": "5th House Upgrade (2nd Floor)"
+  },
+  {
+    "bridge": "red stucco exterior",
+    "buy": 5000,
+    "category": "Siding",
+    "source": "5th House Upgrade (2nd Floor)"
+  },
+  {
+    "bridge": "red-trim common exterior",
+    "buy": 5000,
+    "category": "Siding",
+    "source": "5th House Upgrade (2nd Floor)"
+  },
+  {
+    "bridge": "white stucco exterior",
+    "buy": 5000,
+    "category": "Siding",
+    "source": "5th House Upgrade (2nd Floor)"
+  },
+  {
+    "bridge": "yello stucco exterior",
+    "buy": 5000,
+    "category": "Siding",
+    "source": "5th House Upgrade (2nd Floor)"
+  },
+  {
+    "bridge": "yellow chalet exterior",
+    "buy": 5000,
+    "category": "Siding",
+    "source": "5th House Upgrade (2nd Floor)"
+  },
+  {
+    "bridge": "yellow common exterior",
+    "buy": 5000,
+    "category": "Siding",
+    "source": "5th House Upgrade (2nd Floor)"
+  }
+]

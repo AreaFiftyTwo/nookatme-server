@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 const otherSchema = new mongoose.Schema({
   name: String,
   buy: String,
-  sell: Number,
+  sell: String,
   source: String,
   tag: String,
   version: String,

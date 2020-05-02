@@ -9,7 +9,7 @@ const wallmountedSchema = new mongoose.Schema({
   diy: String,
   bodyCustomize: String,
   patternCustomize: String,
-  kitCost: Number,
+  kitCost: String,
   buy: String,
   sell: Number,
   color1: String,
