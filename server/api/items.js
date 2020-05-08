@@ -3,6 +3,12 @@ const { db } = require('../db/index');
 
 module.exports = router;
 
+router.get('/', (req, res, next) => {
+  res.status(200).json({
+    message: 'In game items can be found here.'
+  });
+});
+
 router.get('/:category/:id', async (req, res, next) => {
   try {
     const item = await db.model(req.params.category).find({"_id": req.params.id});

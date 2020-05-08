@@ -24,6 +24,12 @@ const createApp = () => {
 
   // Initialize passport //
 
+  app.get('/', (req, res, next) => {
+    res.status(200).json({
+      message: '<--- Welcome to the NookAtMe database API! --->'
+    })
+  })
+
   // API routes //
   app.use('/api', require('./api'));
 

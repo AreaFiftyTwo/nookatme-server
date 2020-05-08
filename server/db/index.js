@@ -30,6 +30,7 @@ const Umbrella = require('./models/umbrella');
 const Villager = require('./models/villager');
 const Wallmounted = require('./models/wallmounted');
 const Wallpaper = require('./models/wallpaper');
+const User = require('./models/user');
 
 mongoose.connect('mongodb://localhost/nookatme', {
   useNewUrlParser: true,
@@ -45,4 +46,4 @@ db
     console.log('error:', error)
   })
 
-module.exports = { db, Fencing, Accessory, Art, Bag, Bottom, BugNorth, BugSouth, Construction, Dress, FishNorth, FishSouth, Floor, Fossil, Headwear, Houseware, Misc, Music, NookMile, Other, Photo, Poster, Recipe, Rug, Shoe, Sock, Tool, Top, Umbrella, Villager, Wallmounted, Wallpaper }
+module.exports = { db, Fencing, Accessory, Art, Bag, Bottom, BugNorth, BugSouth, Construction, Dress, FishNorth, FishSouth, Floor, Fossil, Headwear, Houseware, Misc, Music, NookMile, Other, Photo, Poster, Recipe, Rug, Shoe, Sock, Tool, Top, Umbrella, Villager, Wallmounted, Wallpaper, User }
