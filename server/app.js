@@ -2,10 +2,30 @@ const express = require('express');
 const app = express();
 const morgan = require('morgan');
 const bodyParser = require('body-parser');
+const mongoose = require('mongoose');
+const session = require('express-session');
+const passport = require('passport');
+const MongoStore = require('connect-mongo')(session);
 
 const PORT = process.env.PORT || 8080;
 
 module.exports = app;
+
+const { db, User } = require('./db/index');
+const dbStore = new MongoStore({ mongooseConnection: db });
+
+passport.serializeUser((user, done) => {
+  done(null, user.id);
+});
+
+passport.deserializeUser(async (id, done) => {
+  try {
+    const user = await User.findById(id);
+    done(null, user);
+  } catch (err) {
+    done(err);
+  }
+});
 
 const createApp = () => {
   // Logging middleware //
@@ -13,7 +33,15 @@ const createApp = () => {
   // Body-parsing middleware //
   app.use(bodyParser.json());
   app.use(bodyParser.urlencoded({ extended: true }));
+  app.use(session({
+    secret: 'insecure secret',
+    store: dbStore,
+    resave: false,
+    saveUninitialized: false
+  }))
 
+  app.use(passport.initialize());
+  app.use(passport.session());
   // Static file serving middleware. Uncomment this when ready. //
   // app.use(express.static(path.join(__dirname, '..', 'public')));
 
@@ -32,6 +60,8 @@ const createApp = () => {
 
   // API routes //
   app.use('/api', require('./api'));
+  // Auth Routes //
+  app.use('/auth', require('./auth/auth'));
 
   // Error handling middleware //
   app.use((err, req, res, next) => {
