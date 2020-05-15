@@ -33,6 +33,10 @@ const createApp = () => {
   // API routes //
   app.use('/api', require('./api'));
 
+  // auth routes //
+
+  app.use('/auth', require('./auth'));
+
   // Error handling middleware //
   app.use((err, req, res, next) => {
     console.error(err);
