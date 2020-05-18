@@ -27,43 +27,45 @@ router.get('/:category', async (req, res, next) => {
     const keysStr = keys.join('');
     const filters = {};
     if (keys.length && keysStr !== 'pagelimit' && keysStr !== 'limitpage') {
-      console.log('we have a query');
-      // queries that apply to all or nearly all items
-      if (keys.includes('diy')) {
-        filters['diy'] = query.diy;
-      }
-      if (keys.includes('color')) {
-        filters['color1'] = query.color;
-        filters['color2'] = query.color;
-      }
+      for (const key of keys) {
+        // queries that apply to all or nearly all items
+        if (key === 'diy') {
+          filters['diy'] = query.diy;
+        }
+        if (key === 'color') {
+          filters['color1'] = query.color;
+          filters['color2'] = query.color;
+        }
 
-      // queries for furniture, decor, flooring/wallpaper
-      if (keys.includes('bodyCustomize')) {
-        filters['bodyCustomize'] = bodyCustomize;
-      }
-      if (keys.includes('hhaConcept')) {
-        filters['hhaConcept1'] = query.hhaConcept;
-        filters['hhaConcept2'] = query.hhaConcept;
-      }
-      if (keys.includes('hhaSeries')) {
-        filters['hhaSeries'] = hhaSeries;
-      }
-      if (keys.includes('patternCustomize')) {
-        filters['patternCustomize'] = patternCustomize;
-      }
-      if (keys.includes('tag')) {
-        filters['tag'] = query.tag;
-      }
-      if (keys.includes('vfx')) {
-        filters['vfx'] = query.vfx;
-      }
+        // queries for furniture, decor, flooring/wallpaper
+        if (key === 'bodyCustomize') {
+          filters['bodyCustomize'] = bodyCustomize;
+        }
+        if (key === 'hhaConcept') {
+          filters['hhaConcept1'] = query.hhaConcept;
+          filters['hhaConcept2'] = query.hhaConcept;
+        }
+        if (key === 'hhaSeries') {
+          filters['hhaSeries'] = hhaSeries;
+        }
+        if (key === 'patternCustomize') {
+          filters['patternCustomize'] = patternCustomize;
+        }
+        if (key === 'tag') {
+          filters['tag'] = query.tag;
+        }
+        if (key === 'vfx') {
+          filters['vfx'] = query.vfx;
+        }
 
-      // queries for clothing
-      if (keys.includes('style')) {
-        filters['style'] = query.style;
-      }
-      if (keys.includes('labelThemes')) {
-        filters['labelThemes'] = query.labelThemes;
+        // queries for clothing
+        if (key === 'style') {
+          filters['style'] = query.style;
+        }
+        if (key === 'labelThemes') {
+          filters['labelThemes'] = query.labelThemes;
+        }
+
       }
     }
 
