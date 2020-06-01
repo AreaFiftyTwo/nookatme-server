@@ -4,8 +4,14 @@ const _ = require('lodash');
 
 const userSchema = mongoose.Schema({
   _id: mongoose.Schema.Types.ObjectId,
+  username: { type: String, required: true },
   email: { type: String, required: true, unique: true },
-  password: { type: String, required: true },
+  password: { type: String },
+  avatar: { type: String },
+  discordUsername: { type: String },
+  discordId: { type: String, unique: true },
+  twitterUsername: { type: String },
+  twitter: { type: String },
   lists: Array,
   salt: { type: String },
   isAdmin: { type: Boolean, default: false }
