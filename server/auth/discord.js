@@ -3,14 +3,12 @@ const { User } = require('../db/index');
 const mongoose = require('mongoose');
 const axios = require('axios');
 const queryString = require('querystring');
-// const { db } = require('../db/index');
 require('dotenv').config();
 const DISCORD_ID = process.env.DISCORD_ID;
 const DISCORD_SECRET = process.env.DISCORD_SECRET;
 const env = process.env.NODE_ENV || 'development';
-const redirectUrl = env === 'development'
-  ? 'http://localhost:8080/auth/discord/callback'
-  : 'https://nookatme-server001.com/auth/discord/callback';
+const config = require(__dirname + '/../config/config.js')[env];
+const redirectUrl = config.discord_url;
 
 router.get('/login', (req, res) => {
   res.redirect(`https://discord.com/api/oauth2/authorize?client_id=${DISCORD_ID}&redirect_uri=${redirectUrl}&response_type=code&scope=identify`);
@@ -38,7 +36,7 @@ router.get('/callback', async (req, res) => {
       }
     });
 
-    // get user info from discord
+    // use token to get user info from discord
     const returnedUser = await axios.get('https://discordapp.com/api/users/@me', {
       headers: {
         'Authorization': `${sentData.data.token_type} ${sentData.data.access_token}`
