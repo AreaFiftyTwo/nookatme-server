@@ -38,12 +38,6 @@ router.get('/:category', async (req, res, next) => {
             filters['variantId'] = "NA";
             filters['variantId'] = "0_0";
           }
-
-          // variations in clothing, by variation
-          if (category === "tops") {
-            filters['variation'] = "NA";
-            // filters['variation']
-          }
         }
 
         // queries that apply to all or nearly all items
