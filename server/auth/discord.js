@@ -14,7 +14,7 @@ router.get('/login', (req, res) => {
   res.redirect(`https://discord.com/api/oauth2/authorize?client_id=${DISCORD_ID}&redirect_uri=${redirectUrl}&response_type=code&scope=identify`);
 });
 
-router.get('/callback', async (req, res) => {
+router.get('/callback', async (req, res, next) => {
   try {
     // get access token from discord
     const { code } = req.query;
@@ -46,7 +46,7 @@ router.get('/callback', async (req, res) => {
     // find or create user, then log in
     let currentUser = await User.findOne({ email: returnedUser.data.email });
     if (!currentUser) {
-      const {id, username, email, avatar, discriminator} = returnedUser.data;
+      const { id, username, email, avatar, discriminator } = returnedUser.data;
       const user = await new User({
         _id: new mongoose.Types.ObjectId(),
         username: username,
