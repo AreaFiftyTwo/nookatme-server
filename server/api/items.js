@@ -20,7 +20,7 @@ router.get('/:category/:id', async (req, res, next) => {
 
 router.get('/:category', async (req, res, next) => {
   try {
-    const { query } = req;
+    const { query, params } = req;
     const keys = Object.keys(query);
 
     // check if there are any filtering queries
@@ -28,6 +28,18 @@ router.get('/:category', async (req, res, next) => {
     const filters = {};
     if (keys.length && keysStr !== 'pagelimit' && keysStr !== 'limitpage') {
       for (const key of keys) {
+        // variation query
+          // front end sends either variation=yes or variation=no
+        if (key === 'variation' && query.variation === "no") {
+          const { category } = params;
+
+          // variations in housewares can be determined by variantId
+          if (category === "housewares") {
+            filters['variantId'] = "NA";
+            filters['variantId'] = "0_0";
+          }
+        }
+
         // queries that apply to all or nearly all items
         if (key === 'diy') {
           filters['diy'] = query.diy;
