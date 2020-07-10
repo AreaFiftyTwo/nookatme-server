@@ -8,6 +8,14 @@ router.get('/', (req, res, next) => {
   })
 })
 
+router.get('/me', async (req, res, next) => {
+  try {
+    res.json(req.user);
+  } catch (error) {
+    next(error);
+  }
+})
+
 router.post('/signup', async (req, res, next) => {
   try {
     const user = await new User({
